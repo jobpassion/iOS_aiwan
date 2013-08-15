@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4CF5A14017BD198F005D1125"
-               BuildableName = "aiwan.app"
+               BuildableName = "&#29233;&#29609;.app"
                BlueprintName = "aiwan"
                ReferencedContainer = "container:aiwan.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CF5A14017BD198F005D1125"
-            BuildableName = "aiwan.app"
+            BuildableName = "&#29233;&#29609;.app"
             BlueprintName = "aiwan"
             ReferencedContainer = "container:aiwan.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CF5A14017BD198F005D1125"
-            BuildableName = "aiwan.app"
+            BuildableName = "&#29233;&#29609;.app"
             BlueprintName = "aiwan"
             ReferencedContainer = "container:aiwan.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4CF5A14017BD198F005D1125"
-            BuildableName = "aiwan.app"
+            BuildableName = "&#29233;&#29609;.app"
             BlueprintName = "aiwan"
             ReferencedContainer = "container:aiwan.xcodeproj">
          </BuildableReference>
