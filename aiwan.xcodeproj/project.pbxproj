@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C5F0AB417C0A46900986423 /* 123-id-card.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C5F0AB317C0A46900986423 /* 123-id-card.png */; };
 		4CF5A14517BD198F005D1125 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF5A14417BD198F005D1125 /* UIKit.framework */; };
 		4CF5A14717BD198F005D1125 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF5A14617BD198F005D1125 /* Foundation.framework */; };
 		4CF5A14917BD1990005D1125 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CF5A14817BD198F005D1125 /* CoreGraphics.framework */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C5F0AB317C0A46900986423 /* 123-id-card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "123-id-card.png"; sourceTree = "<group>"; };
 		4CF5A14117BD198F005D1125 /* 爱玩.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "爱玩.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CF5A14417BD198F005D1125 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		4CF5A14617BD198F005D1125 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -69,9 +71,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4C5F0AB217C0A46900986423 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				4C5F0AB317C0A46900986423 /* 123-id-card.png */,
+			);
+			path = resources;
+			sourceTree = "<group>";
+		};
 		4CF5A13817BD198F005D1125 = {
 			isa = PBXGroup;
 			children = (
+				4C5F0AB217C0A46900986423 /* resources */,
 				4CF5A14A17BD1990005D1125 /* aiwan */,
 				4CF5A14317BD198F005D1125 /* Frameworks */,
 				4CF5A14217BD198F005D1125 /* Products */,
@@ -100,6 +111,7 @@
 		4CF5A14A17BD1990005D1125 /* aiwan */ = {
 			isa = PBXGroup;
 			children = (
+				4CF5A16A17BD1991005D1125 /* SecondViewController.m */,
 				4CF5A15317BD1990005D1125 /* AppDelegate.h */,
 				4CF5A15417BD1990005D1125 /* AppDelegate.m */,
 				4CF5A15C17BD1990005D1125 /* MainStoryboard_iPhone.storyboard */,
@@ -120,7 +132,6 @@
 			isa = PBXGroup;
 			children = (
 				4CFB848D17BD2E30004358AE /* Icon＠2x.png */,
-				4CF5A16A17BD1991005D1125 /* SecondViewController.m */,
 				4CF5A14C17BD1990005D1125 /* aiwan-Info.plist */,
 				4CF5A14D17BD1990005D1125 /* InfoPlist.strings */,
 				4CF5A15017BD1990005D1125 /* main.m */,
@@ -194,6 +205,7 @@
 				4CF5A16D17BD1991005D1125 /* second.png in Resources */,
 				4CF5A16F17BD1991005D1125 /* second@2x.png in Resources */,
 				4CFB848E17BD2E30004358AE /* Icon＠2x.png in Resources */,
+				4C5F0AB417C0A46900986423 /* 123-id-card.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
